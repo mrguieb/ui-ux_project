@@ -21,8 +21,7 @@ const Footer = () => {
                     </a>
                     <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
                         Get yourself with the most authentic pods & flavors in
-                        Pakistan. And enjoy the orginal products from
-                        e-cignition!
+                        Ilocos Sur.
                     </p>
                     <div className='flex items-center gap-5 mt-8'>
                         {socialMedia.map((icon) => (
