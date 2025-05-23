@@ -36,7 +36,7 @@ export const products = [
     {
         imgURL: pod0,
         title: "Voopoo Argus P1 Pod",
-        price: 7499,
+        price: 1600,
         description: `Voopoo Argus P1 20W Pod System, features an 800mAh battery, 5-20W output range, and delivers exceptional vapor from the 0.7ohm or 1.2ohm pod. Constructed from durable zinc alloy, the Argus P1 Pod System chassis is lightweight but resilient to light falls and drops. Constructed from durable zinc-alloy, the chassis of the Argus P1 Pod System is lightweight but resilient to light falls and drops. In addition, the 0.7ohm and 1.2ohm Argus Pods are leak-free and can hold up to 2mL of your favorite eJuice or nicotine salts. Furthermore, the Argus P1 Kit offers an airflow adjustment switch, allowing the user to alter the airflow to the desired amount.`,
         quantity: 1,
         category: 'pods',
@@ -45,7 +45,7 @@ export const products = [
     {
         imgURL: pod1,
         title: "Voopoo Drag 4 Pod",
-        price: 19999,
+        price: 1500,
         description:`Experience power and style with the Voopoo Drag 4 Pod Mod 177W kit price in Pakistan. This sleek and elegant vape device boasts a maximum output of 177W, making it a perfect choice for experienced vapers who demand high performance. The device comes with a convenient 4.5ml pod that is compatible with Voopoo's PnP coil series, allowing you to customize your vaping experience to your liking. The device is powered by dual 18650 batteries, ensuring long-lasting use, and features an innovative GENE.FAN 2.0 chipset that provides a smooth and consistent vaping experience. Get your VOOPOO DRAG 4 POD MOD KIT PRICE IN PAKISTAN today and enjoy the perfect combination of power and style.`,
         quantity: 1,
         category: 'pods',
@@ -54,7 +54,7 @@ export const products = [
     {
         imgURL: pod2,
         title: "Voopoo Argus G Pod",
-        price: 7499,
+        price: 1699,
         description:`Adopting VOOPOO ITO specialized atomization technology for MTL vaping, ARGUS G delivers a stable taste with a 5W-25W wattage setting and prolongs the lifespan of coil. ARGUS G is suitable for FREE BASE and nicotine salt e-liquid and one coil. Besides, a multi-function button with a OLED screen, the adjustable power and airflow function, recording puff counts and manual lock/unlock bring vapers a more personalized experience.
         The VOOPOO ARGUS G 25W Pod Kit features a 2ml capacity ARGUS POD cartridge, which utilizes 0.7Ω and 1.2Ω resistance coils to produce rich and flavorful vapor. Whether you prefer a tight, cigarette-like draw or a more open and airy one, the ARGUS POD cartridge has you covered.
         Crafted from durable aluminum alloy and PCTG materials, this device is both stylish and rugged. It's designed to withstand everyday wear and tear, making it the perfect companion for on-the-go vaping.
@@ -67,7 +67,7 @@ export const products = [
     {
         imgURL: pod3,
         title: "Uwell Caliburn GK2 Pod",
-        price: 6999,
+        price: 1699,
         description:`Uwell Caliburn GK2 Pod System Kit is the right blend of cyberpunk, steampunk, and futuristic. Firstly, the Lightbars in the shape of KOKOs sparkle brilliantly through the curved glass. Secondly, the Light and vibration functions enable new methods of communicating with vapers. In addition to that, the light emits distinct colors, and the device vibrates in different states at various power levels.
         In addition, Vapers will have a more engaging experience thanks to the two designs. Moreover, the Caliburn GK2 cartridge has an airflow fine-tuning wheel at the bottom and is compatible with three CALIBURN G series coils and Caliburn G2 Coils (0.8/1.0/1.2ohm). With a total weight of only 45.2g and a lanyard included, the CALIBURN GK2 is extremely portable. Furthermore, it might also be a nice addition to your everyday attire. Above all, this device is a must-have for all the KOKO lovers out there.
          `,
@@ -80,7 +80,7 @@ export const products = [
     {
         imgURL: pod4,
         title: "Voopoo V.Thru Pro Pod",
-        price: 6499,
+        price: 1799,
         description:`Discover the VOOPOO V.Thru Pro 25W Pod System, featuring an integrated 900mAh battery, two integrated coil pod options, and uses a draw-activated mechanism. Constructed from lightweight aluminium alloy, the sturdy but lightweight chassis is ideal for those on the go, eliminating excessive weight but also maintaining a reliable against light falls and drops. Offering a 900mAh battery, the V.THRU Pro calls upon the GENE Chipset to manage the power output, firing between 5-25W. Firing in a draw-activated manner, the VOOPOO V.Thru Pro Pods come in a 0.7ohm and 1.2ohm Coil options, each installed with a condensate chamber to prevent leaking issues with vaporized e-Liquid, eliminating up to 75% of the potentially leaked condensated.        `,
         quantity: 1,
         category: 'pods',
@@ -89,7 +89,7 @@ export const products = [
     {
         imgURL: pod5,
         title: "Uwell Caliburn A2",
-        price: 4499,
+        price: 1599,
         description:`Caliburn A2 Kit adopts ultra-light materials with unique ergonomic design for better grip. The exclusive PRO-FOCS tech of Uwell would bring you the most authentic flavor. With an internal 520mAh battery, Caliburn A2 delivers effortless, all-day vaping on the go.
         You can vape with two distinct operations; direct draw or button draw. The battery only takes 35mins to 90% charged with Type-C. Uwell Caliburn A2 Pod comes with 2ml e-juice capacity, it features top filling system to prevent leakage. The perfect lip fitting design and magnetic suction give you a better vaping experience.
          `,
@@ -308,19 +308,19 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Hasnain Aslam',
+        customerName: 'Emgie Guieb',
         rating: 4.4,
         feedback: "The pod kit and the flavors are amazing. Highly recommended!"
     },
     {
         imgURL: customer2,
-        customerName: 'Shoaib Malik',
+        customerName: 'Piolo Merin',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     },
     {
         imgURL: customer2,
-        customerName: 'Zia Ur Rahman',
+        customerName: 'Jester Nite',
         rating: 4.5,
         feedback: "I'm in love with their products. Their customer service experience is also great!"
     }
@@ -345,8 +345,8 @@ export const footerLinks = [
             { name: "About us", link: "/" },
             { name: "FAQs", link: "/" },
             { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            // { name: "Privacy policy", link: "/" },
+            // { name: "Payment policy", link: "/" },
         ],
     },
     {
