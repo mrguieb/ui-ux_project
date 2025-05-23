@@ -131,7 +131,7 @@ export const products = [
     {
         imgURL: flv2,
         title: "Tokyo Iced Strawberry Mango 60ml",
-        price: 350,
+        price: 300,
         description:"Tokyo Iced Strawberry Mango 60ml: Take a trip to the tropics with this refreshing blend of sweet strawberries and juicy mangoes, with a cool menthol finish. This delicious vape juice is perfect for all-day vaping, and it's certain to become your new favorite summer flavor.",
         quantity: 1,
         category: 'flavors',
@@ -140,7 +140,7 @@ export const products = [
     {
         imgURL: flv3,
         title: "Tokyo Iced Strawberry Lychee 60ml",
-        price: 350,
+        price: 300,
         description:"Tokyo Iced Strawberry Lychee 60ml is a bracing mix of sweet strawberries and succulent lychees, with the coldness of menthol finish. This pleasing vape juice is easy to use all day long, and it's definite to become your new choice for summer.",
         quantity: 1,
         category: 'flavors',
@@ -149,7 +149,7 @@ export const products = [
     {
         imgURL: flv4,
         title: "Tokyo Iced Strawberry Kiwi 60ml",
-        price: 350,
+        price: 300,
         description:"Are you tired of vape flavors and want to try something refreshing, Tokyo Iced Strawberry Kiwi 60ml is a sweet combination of fresh strawberries and cool menthol that gives cool effect. It is a delicious vape juice. Great for all day vaping.",
         quantity: 1,
         category: 'flavors',
@@ -158,7 +158,7 @@ export const products = [
     {
         imgURL: flv5,
         title: "Tokyo Iced Peach Melon 60ml",
-        price: 350,
+        price: 300,
         description:"Tokyo Iced Peach Melon 60ml is a delicious and refreshing vape juice that combines the sweet and juicy flavors of peach and melon with a cool menthol finish. It is the perfect vape juice for vapers who enjoy fruity flavors and are looking for a refreshing vape juice that will help them stay cool on hot days.",
         quantity: 1,
         category: 'flavors',
@@ -167,7 +167,7 @@ export const products = [
     {
         imgURL: flv6,
         title: "Tokyo Iced Fruit Bomb 60ml",
-        price: 350,
+        price: 300,
         description:"Tokyo Iced Fruit Bomb 60ml is a delicious and refreshing vape juice that will transport you to the streets of Tokyo. This fruit bomb is a blend of sweet and tart fruits, including watermelon, strawberry, and lime. The icy menthol finish will leave you feeling cool and refreshed.",
         quantity: 1,
         category: 'flavors',
@@ -176,7 +176,7 @@ export const products = [
     {
         imgURL: flv7,
         title: "Tokyo Iced Cranberry Raspberry 60ml",
-        price: 350,
+        price: 300,
         description:"Unlock the all new Tokyo Iced Cranberry Raspberry 60ml e-liquid that is now available at Vape Bazaar. And get the perfect taste of icy coolness and luscious cranberry raspberry flavor.Its a High quality E-juice made with expertise to provide the gentle and refreshing charm of vaping with every session. It is high quality salt that will make you crave more and more. Easy to use for seasoned as well as new vapers. Tokyo Iced ensures the user satisfaction and gives a sleek, joyful blend of fruity sweetness and a cooling effect.",
         quantity: 1,
         category: 'flavors',
@@ -185,7 +185,7 @@ export const products = [
     {
         imgURL: flv8,
         title: "Tokyo Iced Blueberry Watermelon 60ml",
-        price: 350,
+        price: 300,
         description:"The new flavor of Tokyo iced blueberry is a unique and delicious e-liquid that is ideal for hot summery days. When you're exhausted and look for something refreshing like a blend of blueberry, watermelon, and menthol that will surely quench your thirst. The flavor of blueberry is sweet and tart. Watermelons gives a juicy whereas menthol provides refreshing and cool effect.",
         quantity: 1,
         category: 'flavors',
